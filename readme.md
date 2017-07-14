@@ -1,6 +1,6 @@
-# Learn Redux
+# React Redux Photo App
 
-A simple React + Redux implementation. 
+A 'Instagram clone' with React + Redux implementation.
 
 ## Running
 
