@@ -1,6 +1,7 @@
 # React Redux Photo App
 
 A 'Instagram clone' with React + Redux implementation.
+Addition 1
 
 ## Running
 
@@ -16,3 +17,4 @@ Run `npm build` to create a distro folder and a bundle.js file.
 ---
 ---
 ![alt text](commentPage.png)
+
